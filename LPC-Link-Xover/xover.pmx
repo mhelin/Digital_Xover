@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PinMuxDesign>
+    <Chip>LPC4370FET100</Chip>
+    <Peripheral Name="I2C0">
+        <Signals BallNumber="35" Signal="I2C0_SCL"/>
+        <Signals BallNumber="45" Signal="I2C0_SDA"/>
+    </Peripheral>
+    <Peripheral Name="I2S0">
+        <Signals BallNumber="73" Signal="I2S0_RX_SCK"/>
+        <Signals BallNumber="65" Signal="I2S0_RX_SDA"/>
+        <Signals BallNumber="56" Signal="I2S0_RX_WS"/>
+    </Peripheral>
+    <Peripheral Name="SGPIO">
+        <Signals BallNumber="61" Signal="SGPIO0"/>
+        <Signals BallNumber="60" Signal="SGPIO1"/>
+        <Signals BallNumber="54" Signal="SGPIO6"/>
+        <Signals BallNumber="87" Signal="SGPIO10"/>
+        <Signals BallNumber="79" Signal="SGPIO11"/>
+        <Signals BallNumber="93" Signal="SGPIO14"/>
+        <Signals BallNumber="83" Signal="SGPIO15"/>
+    </Peripheral>
+</PinMuxDesign>

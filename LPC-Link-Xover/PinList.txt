@@ -1,0 +1,101 @@
+PinID   PinName                 Module      Signal
+A1      ADCHS_1                             
+A2      ADCHS_0                             
+A3      ADCHS_NEG                           
+A4      WAKEUP0                             
+A5      RTCX1                               
+A6      DBGEN                               
+A7      P3_3                                
+A8      P3_0                                
+A9      P2_11                               
+A10     P2_13                               
+B1      XTAL1                               
+B2      VDDA                                
+B3      ADCHS_2                             
+B4      TRST                                
+B5      RTCX2                               
+B6      RESET                               
+B7      P3_5                                
+B8      P3_4                                
+B9      P2_12                               
+B10     P2_9                                
+C1      XTAL2                               
+C2      VSSA                                
+C3      RTC_ALARM                           
+C4      TMS/SWDIO                           
+C5      VBAT                                
+C6      P2_8                                
+C7      P3_6                                
+C8      VSSIO                               
+C9      P6_11                               
+C10     P2_7                                
+D1      USB0_VDDA3V3_DRIVER                 
+D2      USB0_VDDA3V3                        
+D3      USB0_VSSA_TERM                      
+D4      VSSIO                               
+D5      VSSIO                               
+D6      I2C0_SCL                I2C0        I2C0_SCL
+D7      P3_7                                
+D8      P2_3                                
+D9      P2_4                                
+D10     P2_5                                
+E1      USB0_DP                             
+E2      USB0_DM                             
+E3      USB0_VBUS                           
+E4      VDDREG                              
+E5      VDDREG                              
+E6      I2C0_SDA                I2C0        I2C0_SDA
+E7      P3_8                                
+E8      P2_10                               
+E9      USB1_DP                             
+E10     USB1_DM                             
+F1      USB0_ID                             
+F2      USB0_VSSA_REF                       
+F3      USB0_RREF                           
+F4      VDDREG                              
+F5      P2_2                    SGPIO       SGPIO6
+F6      P6_4                                
+F7      P3_1                    I2S0        I2S0_RX_WS
+F8      P6_9                                
+F9      P6_5                                
+F10     VDDIO                               
+G1      P0_1                    SGPIO       SGPIO1
+G2      P0_0                    SGPIO       SGPIO0
+G3      TDI                                 
+G4      P1_7                                
+G5      P6_1                                
+G6      P3_2                    I2S0        I2S0_RX_SDA
+G7      P2_1                                
+G8      VSSIO                               
+G9      P2_6                                
+G10     P2_0                                
+H1      P1_0                                
+H2      TCK/SWDCLK                          
+H3      TDO/SWO                             
+H4      PF_4                    I2S0        I2S0_RX_SCK
+H5      P1_8                                
+H6      P1_10                               
+H7      P6_0                                
+H8      P1_13                               
+H9      P1_16                               
+H10     P1_17                   SGPIO       SGPIO11
+J1      P1_3                                
+J2      P1_4                                
+J3      VSSIO                               
+J4      P1_5                    SGPIO       SGPIO15
+J5      P1_9                                
+J6      VSSIO                               
+J7      P1_11                               
+J8      P1_14                   SGPIO       SGPIO10
+J9      P6_2                                
+J10     P1_18                               
+K1      P1_2                                
+K2      P1_1                                
+K3      CLK0                                
+K4      P1_6                    SGPIO       SGPIO14
+K5      VDDIO                               
+K6      CLK2                                
+K7      P1_12                               
+K8      P1_15                               
+K9      P1_19                               
+K10     P1_20                               
